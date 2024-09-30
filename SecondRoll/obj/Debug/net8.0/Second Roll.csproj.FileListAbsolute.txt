@@ -1,0 +1,36 @@
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/appsettings.Development.json
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/appsettings.json
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Second Roll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Second Roll.deps.json
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Second Roll.runtimeconfig.json
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Second Roll.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Second Roll.pdb
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.csproj.AssemblyReference.cache
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.GeneratedMSBuildEditorConfig.editorconfig
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.AssemblyInfoInputs.cache
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.AssemblyInfo.cs
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.csproj.CoreCompileInputs.cache
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.MvcApplicationPartsAssemblyInfo.cs
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.MvcApplicationPartsAssemblyInfo.cache
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/staticwebassets.build.json
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/staticwebassets.development.json
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/staticwebassets/msbuild.Second Roll.Microsoft.AspNetCore.StaticWebAssets.props
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/staticwebassets/msbuild.build.Second Roll.props
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Second Roll.props
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Second Roll.props
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/staticwebassets.pack.json
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/scopedcss/bundle/Second Roll.styles.css
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.csproj.CopyComplete
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/refint/Second Roll.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.pdb
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/Second Roll.genruntimeconfig.cache
+/home/barthmalemew/Projects/secondroll/Second Roll/obj/Debug/net8.0/ref/Second Roll.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Second Roll.staticwebassets.runtime.json
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/barthmalemew/Projects/secondroll/Second Roll/bin/Debug/net8.0/System.Net.WebSockets.WebSocketProtocol.dll

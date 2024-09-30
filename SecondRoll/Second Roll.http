@@ -1,0 +1,6 @@
+@Second_Roll_HostAddress = http://localhost:5070
+
+GET {{Second_Roll_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

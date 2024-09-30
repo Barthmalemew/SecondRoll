@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campaign Chat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <!-- Left Panel: Party List -->
+    <div class="party-list">
+        <h2>Party</h2>
+        <div class="player">Player 1</div>
+        <div class="player">Player 2</div>
+        <div class="player">Player 3</div>
+        <div class="player">Player 4</div>
+        <div class="player">Dungeon Master</div>
+    </div>
+
+    <!-- Center Panel: Map Board -->
+    <div class="map-board">
+        <h1>Map Board</h1>
+    </div>
+
+    <!-- Right Panel: Chat -->
+    <div class="chat-container">
+        <div id="messages" class="chat-messages">
+            <div class="message"><strong>DM:</strong> Welcome to the campaign!</div>
+            <div class="message"><strong>Player 1:</strong> Let's do this!</div>
+        </div>
+        <div class="chat-input">
+            <input type="text" id="messageInput" placeholder="Type a message...">
+            <button id="sendButton">Send</button>
+        </div>
+    </div>
+</div>
+
+<!-- Include SignalR library -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.11/signalr.min.js"></script>
+<script src="scripts.js"></script>
+</body>
+</html>
